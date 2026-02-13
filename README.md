@@ -1,8 +1,3 @@
-Perfect 👍 Notepad is totally fine.
-Now copy **everything below** and paste it into Notepad → Save as `README.md`.
-
----
-
 # 📊 Customer Churn Prediction using Machine Learning
 
 ## 📌 Project Overview
